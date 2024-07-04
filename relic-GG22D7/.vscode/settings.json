@@ -1,0 +1,21 @@
+{
+    "cmake.configureOnOpen": false,
+    "files.associations": {
+        "relic_ep.h": "c",
+        "functional": "c",
+        "relic_fpx_low.h": "c",
+        "random": "c",
+        "relic_core.h": "c",
+        "relic_fp_low.h": "c",
+        "relic_epx.h": "c",
+        "relic_pp.h": "c",
+        "array": "c",
+        "deque": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "vector": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "relic_md.h": "c"
+    }
+}
