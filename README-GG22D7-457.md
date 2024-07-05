@@ -43,7 +43,7 @@ The main source code of our algorithms are distributed in different folders.  Th
  
  *  For other curves, you can perform the following commands:
    1. mkdir build && cd build 
-   2. ../preset/ < preset >.sh ./
+   2. ../preset/ < preset >.sh ../
    3. make
    4. cd bin 
    5. ./bench_pc
