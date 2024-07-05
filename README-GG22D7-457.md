@@ -33,7 +33,7 @@ The main source code of our algorithms are distributed in different folders.  Th
 * Testings and benckmarks: Function testing and benckmarking on GG22D7-P457 can be done by performing the following commands：
 
     1. mkdir build && cd build 
-    2. ../preset/x64-pbc-gg22d7-457.sh ./
+    2. ../preset/x64-pbc-gg22d7-457.sh ../
     3. make
     4. cd bin 
     5. ./test_gg22d7
